@@ -116,6 +116,16 @@ devanshu = {
 
 ---
 
+## 🐍 Snake Animation
+
+<div align="center">
+
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/devanshuprakash/devanshuprakash/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
 ## 🏆 Certifications
 
 - 🧠 **AI Engineer Core Track** — LLM Engineering, RAG, QLoRA, Agents *(Udemy — Ed Donner, Jan 2026)*
