@@ -104,7 +104,9 @@ devanshu = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=devanshuprakash&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" />
+<img src="https://img.shields.io/badge/Total%20Contributions-642-blue?style=for-the-badge&color=1a1b27" />
+<img src="https://img.shields.io/badge/Longest%20Streak-95%20days-orange?style=for-the-badge&color=fe428e&label=Longest+Streak" />
+<img src="https://img.shields.io/badge/Jan%2015%20–%20Apr%2019%202026-fe428e?style=for-the-badge&color=fe428e&label=Jan+15+–+Apr+19+2026&labelColor=1a1b27" />
 
 </div>
 
