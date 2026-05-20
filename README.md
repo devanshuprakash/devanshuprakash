@@ -27,7 +27,7 @@ devanshu = {
     "university":  "Newton School of Technology, ADYPU (B.Tech CSE, 2024–2028)",
     "gpa":         "9.02 / 10.0",
     "building":    ["AI Agents", "RAG Systems", "Fine-tuned LLMs", "Full-Stack Apps"],
-    "stack":       ["React", "Node.js", "Python", "SQL", "LangChain", "OpenAI API"],
+    "stack":       ["React", "Node.js", "Python", "SQL", "LangChain", "LLMs API"],
     "currently":   "Exploring agentic AI systems & LLM productionization",
     "fun_fact":    "I track my caffeine intake with an app I built myself ☕",
 }
